@@ -68,3 +68,5 @@ Here are a few projects I’ve been working on:
 ---
 
 📌 _This portfolio is open-source — feel free to explore, fork, or get inspired!_
+
+<a href = " https://abidavidjames.site/"> 
